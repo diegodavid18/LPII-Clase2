@@ -1,0 +1,46 @@
+.pequeno{
+    background-color: red;
+    width: 150px;
+    height: 210px;
+
+}
+
+#primerh1{
+    color: antiquewhite;
+}
+/*p {
+    color: aqua;
+    font-size: 40px;
+}*/
+
+html{
+    font-size: 19px ;
+}
+
+#div-ejemplo{
+    position: relative;
+    margin: 5px;
+    border: 5px solid orange;
+    width: 89vw;
+    font-size: 20px;
+    padding: 20px;
+}
+#div-ejemplodiv{
+    font-size: 5em;
+
+
+}
+#blue{
+    background-color:blue;
+    width: 10%;
+
+}
+#green{
+    background-color: green;
+    width: 30%;
+}
+#red{
+    background-color: red;
+    width: 50%;
+
+}
